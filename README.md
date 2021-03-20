@@ -1,9 +1,7 @@
-# mastering-git-web
-
-#Mobile Fire recognition using real-time video
+# Mobile Fire recognition using real-time video
 Fire recognition
 
-##Requirements
+## Requirements
 
 Built in Linux environment (check original repository for Windows version
 
